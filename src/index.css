@@ -31,7 +31,7 @@ body {
 
 .main {
   min-width: 55%;
-  background-color: rgba(14, 10, 249, 0.314);
+  background-color: rgba(54, 57, 51, 0.104);
   position: relative;
   display: flex;
   flex-direction: column;
@@ -54,6 +54,7 @@ body {
   transition: 0.4s;
   border-radius: 5px;
   position: relative;
+  cursor: pointer;
 }
 
 h3 {
@@ -72,7 +73,7 @@ h3 {
 }
 
 li:hover {
-  background-color: rgba(14, 10, 249, 0.314);
+  background-color: rgba(141, 249, 10, 0.314);
 }
 
 .main form {
